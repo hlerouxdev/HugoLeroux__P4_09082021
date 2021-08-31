@@ -105,11 +105,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: white;
+    color: black;
 }
 
 .d-bloc button:hover {
-    color: white;
+    color: black;
 }
 
 .d-bloc .icon-round,
