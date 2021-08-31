@@ -718,10 +718,13 @@ p {
     max-width: 562px;
 }
 
-
 .citation{
     font-style: italic;
     font-size: 1.4em;
+}
+
+.text-clients{
+    max-width: 495px;
 }
 
 h2 {
