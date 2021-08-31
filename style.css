@@ -704,6 +704,26 @@ p {
     margin: auto auto auto auto;
 }
 
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.col-sm-12{
+    max-width: 612px;
+}
+
+.col-md-offset-2{
+    margin-left: 0;
+    max-width: 562px;
+}
+
+
+.citation{
+    font-style: italic;
+    font-size: 1.4em;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
